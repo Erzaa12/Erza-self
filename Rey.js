@@ -26,25 +26,24 @@ const sotoy = [
 		'🍌 : 🍌 : 🍌',
 		]
 const {
-    WAConnection,
-  MessageType,
-  Presence, 
-  MessageOptions,
-  Mimetype,
-  WALocationMessage,
-  WA_MESSAGE_STUB_TYPES,
-  ReconnectMode,
-  ProxyAgent,
-  GroupSettingChange,
-  ChatModification,
-  waChatKey,
-  WA_DEFAULT_EPHEMERAL,
-  mentionedJid,
-  processTime
+   WAConnection,
+   MessageType,
+   Presence,
+   MessageOptions,
+   Mimetype,
+   WALocationMessage,
+   WA_MESSAGE_STUB_TYPES,
+   ReconnectMode,
+   ProxyAgent,
+   GroupSettingChange,
+   waChatKey,
+   mentionedJid,
+   processTime,
 } = require('@adiwajshing/baileys')
 const fs = require('fs')
 const axios = require("axios")
 const speed = require('performance-now')
+const crypto = require('crypto')
 const request = require('request')
 const imgbb = require('imgbb-uploader')
 const toMs = require('ms')
