@@ -3,7 +3,9 @@ const y = '_'
 const f = '*'
 const c = '~'
 const help = (prefix) => {
-	return  `┌──「 𝙎𝙀𝙇𝙁 𝘽𝙊𝙏 」───
+	return  `
+
+┌──「 _*ERZA SELF*_ 」───
 │
 ├ ${f}${prefix}sticker${f}
 ├ ${f}${prefix}stickergif${f}
@@ -78,7 +80,7 @@ const help = (prefix) => {
 ├ ${f}${prefix}ytmp3${f}
 ├ ${f}${prefix}ytmp4${f}
 │
-└──「 𝙕𝙄𝙏𝙎𝙍𝘼𝘼 𝙎𝙀𝙇𝙁 」───`
+└──「 _*Made with By Rey*_ ❤️ 」───`
 
 
 }
