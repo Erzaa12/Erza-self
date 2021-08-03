@@ -7,78 +7,78 @@ const help = (prefix) => {
 
 ┌──「 _*ERZA SELF*_ 」───
 │
-├ ${f}${prefix}sticker${f}
-├ ${f}${prefix}stickergif${f}
-├ ${f}${prefix}stickerwa${f}
-├ ${f}${prefix}textmaker teks atas|teks bawah${f}
-├ ${f}${prefix}attp${f}
-├ ${f}${prefix}ttp${f}
-├ ${f}${prefix}take${f}
-├ ${f}${prefix}tovideo${f}
-├ ${f}${prefix}toimg${f}
+├ ${prefix}sticker*
+├ ${prefix}stickergif*
+├ ${prefix}stickerwa${f}
+├ ${prefix}textmaker teks atas|teks bawah*
+├ ${prefix}attp*
+├ ${prefix}ttp*
+├ ${prefix}take*
+├ ${prefix}tovideo*
+├ ${prefix}toimg*
 │
-├ ${f}${prefix}runtime${f}
-├ ${f}${prefix}ping${f}
-├ ${f}${prefix}term${f}
-├ ${f}${prefix}blocklist${f}
-├ ${f}${prefix}run${f}
-├ ${f}${prefix}chatlist${f}
-├ ${f}${prefix}owner${f}
+├ ${prefix}runtime*
+├ ${prefix}ping*
+├ ${prefix}term*
+├ ${prefix}blocklist*
+├ ${prefix}run*
+├ ${prefix}chatlist*
+├ ${prefix}owner*
 │
-├ ${f}${prefix}hidetag Text${f}
-├ ${f}${prefix}stctag Tag Stc${f}
-├ ${f}${prefix}imgtag Tag Img${f}
-├ ${f}${prefix}kontag Text${f}
-├ ${f}${prefix}kontak 6281xxx Nama${f}
+├ ${prefix}hidetag Text*
+├ ${prefix}stctag Tag Stc*
+├ ${prefix}imgtag Tag Img*
+├ ${prefix}kontag Text*
+├ ${prefix}kontak 6281xxx Nama*
 │
-├ ${f}${prefix}setreply${f}
-├ ${f}${prefix}setwelcome${f}
-├ ${f}${prefix}setleave${f}
-├ ${f}${prefix}setpromote${f}
-├ ${f}${prefix}setdemote${f}
+├ ${prefix}setreply*
+├ ${prefix}setwelcome*
+├ ${prefix}setleave*
+├ ${prefix}setpromote*
+├ ${prefix}setdemote*
 │
-├ ${f}${prefix}upswtext${f}
-├ ${f}${prefix}upswimg${f}
-├ ${f}${prefix}upsvideo${f}
+├ ${prefix}upswtext*
+├ ${prefix}upswimg*
+├ ${prefix}upsvideo*
 │
-├ ${f}${prefix}welcome 1/0${f}
-├ ${f}${prefix}linkgroup${f}
-├ ${f}${prefix}group tutup/buka${f}
-├ ${f}${prefix}add 6281xxx${f}
-├ ${f}${prefix}kick @tag${f}
-├ ${f}${prefix}promote @tag${f}
-├ ${f}${prefix}demote @tagadmin${f}
-├ ${f}${prefix}edotensei @tag${f}
-├ ${f}${prefix}listadmin${f}
-├ ${f}${prefix}online${f}
-├ ${f}${prefix}infoall${f}
-├ ${f}${prefix}notif${f}
+├ ${prefix}welcome 1/0*
+├ ${prefix}linkgroup*
+├ ${prefix}group tutup/buka*
+├ ${prefix}add 6281xxx*
+├ ${prefix}kick @tag*
+├ ${prefix}promote @tag*
+├ ${prefix}demote @tagadmin*
+├ ${prefix}edotensei @tag*
+├ ${prefix}listadmin*
+├ ${prefix}online*
+├ ${prefix}infoall*
+├ ${prefix}notif*
 │
-├ ${f}${prefix}addstik Optional${f}
-├ ${f}${prefix}adimg Optional${f}
-├ ${f}${prefix}addvid Optional${f}
-├ ${f}${prefix}addvn Optional${f}
-├ ${f}${prefix}getstik Query${f}
-├ ${f}${prefix}getimg Query${f}
-├ ${f}${prefix}getvid Query${f}
-├ ${f}${prefix}gervn Query${f}
-├ ${f}${prefix}liststick${f}
-├ ${f}${prefix}listimg${f}
-├ ${f}${prefix}listvid${f}
-├ ${f}${prefix}listvn${f}
+├ ${prefix}addstik Optional*
+├ ${prefix}adimg Optional*
+├ ${prefix}addvid Optional*
+├ ${prefix}addvn Optional*
+├ ${prefix}getstik Query*
+├ ${prefix}getimg Query*
+├ ${prefix}getvid Query*
+├ ${prefix}gervn Query*
+├ ${prefix}liststick*
+├ ${prefix}listimg*
+├ ${prefix}listvid*
+├ ${prefix}listvn*
 │
-├ ${f}${prefix}asupan${f}
-├ ${f}${prefix}asupanamel${f}
-├ ${f}${prefix}asupanrana${f}
-├ ${f}${prefix}asupankaika${f}
-├ ${f}${prefix}asupannuna${f}
+├ ${prefix}asupan*
+├ ${prefix}asupanamel*
+├ ${prefix}asupanrana*
+├ ${prefix}asupankaika*
+├ ${prefix}asupannuna*
 │
-├ ${f}${prefix}play${f}
-├ ${f}${prefix}ig${f}
-├ ${f}${prefix}fb${f}
-├ ${f}${prefix}tiktok${f}
-├ ${f}${prefix}ytmp3${f}
-├ ${f}${prefix}ytmp4${f}
+├ ${prefix}play*
+├ ${prefix}ig*
+├ ${prefix}fb*
+├ ${prefix}tiktok*
+├ ${prefix}ytmp3*
+├ ${prefix}ytmp4*
 │
 └──「 _*Made with By Rey*_ ❤️ 」───`
 
