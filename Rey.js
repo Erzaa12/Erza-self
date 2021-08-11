@@ -1,6 +1,6 @@
 //BOT developer!!!
-//ZITSRA
 //REY
+//ZITSRA
 //MHANKBARBAR SC ORY
 //PLEASE DONT REMOVE DEVELOPER!!!
 const sotoy = [
