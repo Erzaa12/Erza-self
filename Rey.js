@@ -1,6 +1,6 @@
 //BOT developer!!!
-//ZITSRA
 //REY
+//ZITSRA
 //MHANKBARBAR SC ORY
 //PLEASE DONT REMOVE DEVELOPER!!!
 const sotoy = [
@@ -98,7 +98,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:Rey ganz\n'
             + 'ORG:Owner Erza;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=994402564221:+994 40 256 42 21\n'
+            + 'TEL;type=CELL;type=VOICE;waid=0:+62 812 4646 0730\n'
             + 'END:VCARD'
 
 //*********** BELI AJA YAK BIAR LIMIT NYA GAK HABIS ***********//
